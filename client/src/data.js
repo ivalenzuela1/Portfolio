@@ -40,6 +40,7 @@ export const testimonials = [
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
+    id: "1",
   },
   {
     quote:
@@ -47,6 +48,7 @@ export const testimonials = [
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
+    id: "2",
   },
 ];
 
