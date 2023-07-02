@@ -12,7 +12,13 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed">About me.</p>
+          <p className="mb-8 leading-relaxed">
+            I am a passionate software engineer with 5+ years of experience in
+            Google Apps Script, JavaScript/TypeScript, React, and NodeJS. I am
+            also proficient in databases such as BigQuery and MySQL. My
+            expertise lies in automating processes and building tools that make
+            people's lives easier and more efficient.
+          </p>
           <div className="flex justify-center">
             <a
               href="#contact"
